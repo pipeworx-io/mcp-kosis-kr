@@ -1,0 +1,32 @@
+{
+  "name": "@pipeworx/mcp-kosis-kr",
+  "version": "0.1.0",
+  "description": "Korean national statistics (KOSIS) — browse, search and pull time series from Statistics Korea's official statistical database of ~100,000 tables covering population, prices, employment, trade and industry.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "mcp-kosis-kr": "bin/cli.js"
+  },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "kosis-kr"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-kosis-kr.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-d266b84c773539e750ca143d88bf33952587fc52e2fc05650421d8f09813ceb5",
+    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+  }
+}
