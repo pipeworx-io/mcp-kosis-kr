@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kosis-kr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Korean national statistics (KOSIS) — browse, search and pull time series from Statistics Korea's official statistical database of ~100,000 tables covering population, prices, employment, trade and industry.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d266b84c773539e750ca143d88bf33952587fc52e2fc05650421d8f09813ceb5",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-97cef613ba0c37d0479784d2c3ec3bd38df2617caf830abd109f13ba5517edf7",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }

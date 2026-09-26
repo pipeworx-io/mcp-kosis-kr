@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/kosis-kr",
   "title": "Kosis Kr",
   "description": "Korean national statistics (KOSIS) — browse, search and pull time series from Statistics Korea's…",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/kosis-kr",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-kosis-kr",
